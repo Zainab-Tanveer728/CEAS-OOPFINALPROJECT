@@ -1,0 +1,3 @@
+123,Standard Double,50.00,true,2
+456,Suite,100.00,false,4
+789,Single,35.00,true,1
